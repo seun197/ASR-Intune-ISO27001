@@ -1,7 +1,7 @@
 # Secure Score Improvement Report
 
 ## Baseline
-- Secure Score: **XX%**
+- Secure Score: **46.22%**
 - Top Risks:
   1. ASR rules not enabled
   2. USB drives not encrypted
