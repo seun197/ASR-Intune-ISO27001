@@ -19,6 +19,6 @@ Cloud posture improvement is a measurable, auditable way to prove ongoing securi
 4. **Mapped controls** to ISO 27001 Annex A for compliance demonstration.
 
 ## Key Improvements
-- Secure Score increased from **46.22% → 44.4%**.
+- Secure Score increased from **44.4%** → **46.22%.
 - Blocked potential malware delivery via USB, email, Office macros, and script-based attacks.
 - Reduced attack surface against ransomware and phishing.
